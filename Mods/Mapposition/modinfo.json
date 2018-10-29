@@ -1,0 +1,16 @@
+{
+	"name": "Map Position - Red version",
+	"description": "Player Map Position Icon changed color for better perception.\n\n\n_________________________________________________________________________\n\nFirst mod trial with the Dev Kit - a simple and convenient icon color change.\n\n__________________________________________________________________________\n\nChanged color to red to make it even more clear (images above are from version N.1 in orange on several map positions).\n\n__________________________________________________________________________\n\n\nMod ID:1546705524\n\n__________________________________________________________________________",
+	"changeNote": "-Changed color to red  (from orange)",
+	"author": "Luis Guerreiro",
+	"authorUrl": "",
+	"versionMajor": 2,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1546705524",
+	"steamVisibility": 0,
+	"folderName": "Mapposition",
+	"revisionNumber": 109978,
+	"snapshotId": 19719
+}
